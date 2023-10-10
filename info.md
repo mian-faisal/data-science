@@ -30,6 +30,10 @@ e.g The given data is structured data
 ### Unstructured Data:
 Unstructured data lacks a specific structure or format. It is more free-form and can take various shapes, such as text documents, images, audio, video, social media posts, emails, and sensor data.\
 e.g. comments, customer reviews, and images.
+> There exist another type of data is Sami-Structured Data
+> Unstructured data lacks a specific structure or format. It is more free-form and can take various shapes.
+> e.g. XML(Extensible Markup Language), JSON(JavaScript Object Notation), and HTML(Hypertext Markup Language).
+
 
 Rows
 - records
