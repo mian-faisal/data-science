@@ -44,8 +44,8 @@ a row refers to a horizontal line of cells.\
 **e.g** in the given data first row is defined as:
 |   0   | Faisal |  23 |  Lahore | Accountancy     |
 > **Other Names of rows used by programmers**
-> - records      - entries
-> - data points  - values
+> - records      > - entries
+> - data points  > - values
 > - intense
 ### columns
 - attributes
