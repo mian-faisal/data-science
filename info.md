@@ -1,9 +1,35 @@
-# Data Sciences in six months
+# Getting Started with Basis Definitions
 # Auther : Muhammad Faisal Iqbal
 # Contact : github.com/Mian-Faisal
 ---
-# What is Data?
-Data is the collection of raw facts and figures, often in the form of numbers, text, or other formats, that serves as the basis for analysis and decision-making in various fields.
+## What is Data Science?
+Data Science is a combination of two words Data & Science explained below. Data science is a multidisciplinary field that uses scientific methods, algorithms, processes, and systems to extract knowledge and insights from data.
+
+## What is Science?
+Science is a systematic and methodical process of acquiring, organizing, and applying knowledge through observation, experimentation, and the formulation of testable hypotheses to understand and explain natural phenomena and the world around us.\
+e.g Physics, Chemistry, Biology
+  
+## What is Data?
+Data is the collection of raw facts and figures, often in the form of numbers, text, or other formats, that serves as the basis for analysis and decision-making in various fields.\
+e.g  (data_1.1)
+|  Name  | Age |  City   |     Subject     |
+|--------|-----|---------|-----------------|
+| Faisal |  23 |  Lahore | Accountancy     |
+| Ahsan  |  15 | Sahiwal | Data Sciences   |
+|   Ali  |  50 | Karachi | Data Sciences   |
+
+## What is information?
+Information is data that has been transformed into a meaningful context, offering insights or understanding. It is the result of data processing and interpretation.\
+e.g. the given data informs 66% of the participants study data sciences
+
+## Types of Data
+### Structured Data:
+Structured data is highly organized and typically exists in a **tabular format** with a clear schema. It is easy to search, store, and analyze.\
+e.g The given data is structured data
+   databases, spreadsheets, CSV(coma separated values) ,TSV(tab separated values) 
+### Unstructured Data:
+Unstructured data lacks a specific structure or format. It is more free-form and can take various shapes, such as text documents, images, audio, video, social media posts, emails, and sensor data.\
+e.g. comments, customer reviews, and images.
 
 Rows
 - records
