@@ -7,26 +7,26 @@ Data Science is a combination of two words Data & Science explained below. Data 
 
 ## What is Science?
 Science is a systematic and methodical process of acquiring, organizing, and applying knowledge through observation, experimentation, and the formulation of testable hypotheses to understand and explain natural phenomena and the world around us.\
-e.g Physics, Chemistry, Biology
+**e.g** Physics, Chemistry, Biology
   
 ## What is Data?
 Data is the collection of raw facts and figures, often in the form of numbers, text, or other formats, that serves as the basis for analysis and decision-making in various fields.\
 e.g  (data_1.1)
-|  Name  | Age |  City   |     Subject     |
-|--------|-----|---------|-----------------|
-| Faisal |  23 |  Lahore | Accountancy     |
-| Ahsan  |  15 | Sahiwal | Data Sciences   |
-|   Ali  |  50 | Karachi | Data Sciences   |
+| Index |  Name  | Age |  City   |     Subject     |
+|-------|--------|-----|---------|-----------------|
+|   0   | Faisal |  23 |  Lahore | Accountancy     |
+|   1   | Ahsan  |  15 | Sahiwal | Data Sciences   |
+|   2   |   Ali  |  50 | Karachi | Data Sciences   |
 
 ## What is information?
 Information is data that has been transformed into a meaningful context, offering insights or understanding. It is the result of data processing and interpretation.\
-e.g. the given data informs 66% of the participants study data sciences
+**e.g.** the given data informs 66% of the participants study data sciences
 
 ## Types of Data
 ### Structured Data:
 Structured data is highly organized and typically exists in a **tabular format** with a clear schema. It is easy to search, store, and analyze.\
-e.g The given data is structured data
-   databases, spreadsheets, CSV(coma separated values) ,TSV(tab separated values) 
+**e.g** The given data is structured data
+   databases, spreadsheets, CSV(coma separated values) ,TSV(tab separated values) ,data frame
 ### Unstructured Data:
 Unstructured data lacks a specific structure or format. It is more free-form and can take various shapes, such as text documents, images, audio, video, social media posts, emails, and sensor data.\
 e.g. comments, customer reviews, and images.
@@ -34,14 +34,20 @@ e.g. comments, customer reviews, and images.
 > Unstructured data lacks a specific structure or format. It is more free-form and can take various shapes.
 > e.g. XML(Extensible Markup Language), JSON(JavaScript Object Notation), and HTML(Hypertext Markup Language).
 
+### Data-Frame
+A data frame is a fundamental data structure used in data analysis and manipulation in programming languages and libraries like R, Python (with libraries like Pandas), and Julia.
+> A structure created by the combination of rows and columns in some programming languages is called a data frame.
 
-Rows
-- records
-- entries
-- data points
-- values
-- intesis
-columns
+## Components of a Data Frame
+### Rows
+a row refers to a horizontal line of cells.\
+**e.g** in the given data first row is defined as:
+|   0   | Faisal |  23 |  Lahore | Accountancy     |
+> **Other Names of rows used by programmers**
+> - records      - entries
+> - data points  - values
+> - intense
+### columns
 - attributes
 - features  
 - dimensions
